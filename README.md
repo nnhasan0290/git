@@ -1,15 +1,15 @@
-#
+# 1Feb, 23
 
-# write something in file: echo 'content' >> filename
+1. write something in file: echo 'content' >> filename
 
-# read file: cat filename
+2. read file: cat filename
 
-# chang user : git config --global user.name 'username'
+3. chang user : git config --global user.name 'username'
 
-# change default branch: git config --global init.defaultBranch main
+4. change default branch: git config --global init.defaultBranch main
 
-# checking sittings: git config --list
+5. checking sittings: git config --list
 
-# after hitting git config --list if you find stuck and cannot run any command then just write :q and then press enter
+6. after hitting git config --list if you find stuck and cannot run any command then just write :q and then press enter
 
 ##
