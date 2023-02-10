@@ -1,7 +1,5 @@
 # 6Feb, 23
 
-1. to show history of commits : git log --oneline --decorate --graph --all
-2. mergin branch: git merge new-branch
-3. delete branch : git branch -d branch_name
-4. change branch name: git branch --move bad-branch-name corrected-branch-name
-5. branch name update in remote: git push --set-upstream origin corrected-branch-name
+1. to show remote branches: git ls-remote
+2. diff between pull and fetch is: fetch just fetch changed data but pull do fetch and merge both
+3. remote branch delete: git push origin --delete branch-name
