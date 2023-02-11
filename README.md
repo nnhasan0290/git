@@ -7,3 +7,4 @@
 4. fourth change
 5. fifth change
 6. sixth change
+7. seventh rebase change
