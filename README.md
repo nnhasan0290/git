@@ -1,10 +1,5 @@
 # 11Feb, 23
 
-1. This is reabase two branch
-
-2. this is another line from rebase two
-3. this is third change
-4. fourth change
-5. fifth change
-6. sixth change
-7. seventh rebase change
+1. git rebase branch
+2. git rebase --skip
+3. git merge --abort
