@@ -1,5 +1,4 @@
-# 11Feb, 23
+# 19Feb, 23
 
-1. git rebase branch
-2. git rebase --skip
-3. git merge --abort
+1. git reset --hard hash-of-merge-where-you-want-your-head
+2. git push -f
