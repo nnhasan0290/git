@@ -1,15 +1,13 @@
 # 1Feb, 23
 
-1. write something in file: echo 'content' >> filename
+1. press i (i for insert)
 
-2. read file: cat filename
+2. write your merge message
 
-3. chang user : git config --global user.name 'username'
+3. press esc (escape)
 
-4. change default branch: git config --global init.defaultBranch main
+4. write :wq (write & quit)
 
-5. checking sittings: git config --list
-
-6. after hitting git config --list if you find stuck and cannot run any command then just write :q and then press enter
+5. then press enter
 
 ##
